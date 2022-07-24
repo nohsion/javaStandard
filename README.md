@@ -1,6 +1,10 @@
 # javaStandard
 Java의 정석 3판 학습노트 정리
 
+<details>
+<summary>5. 배열 array</summary>
+<div markdown="1">       
+
 ## 5. 배열 array
 ### 1. 배열의 복사
 #### 1. for문
@@ -51,4 +55,9 @@ Java의 정석 3판 학습노트 정리
             }
 #### 5. 단어 맞추기
       1. equals()
+
+</div>
+</details>
+
+
 

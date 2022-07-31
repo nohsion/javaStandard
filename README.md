@@ -399,6 +399,13 @@ this()와 마찬가지로 super() 역시 생성자이다. this()는 같은 클�
 조상 클래스 생성자의 호출은 최고 조상인 Object클래스의 생성자인 Object()까지 가야 끝이 난다.  
 상속받은 클래스의 생성자 첫 줄에 조상의 생성자를 호출하지 않으면 컴파일러가 자동으로 super()를 호출할 것이다.
 
+### 3. 제어자 (modifier)
+
+- 접근 제어자
+  - public, protected, default, private
+- 그외
+  - static, final, abstract, native, transient, synchronized, volatile, strictfp
+
 
 </div>
 </details>
